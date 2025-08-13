@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "5251c566a7004b0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f7bbf7c1deccdfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca777233de1353ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50-Inbox/2025-08-13 Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-13 Obsidian"
+            }
+          }
+        ]
+      },
+      {
+        "id": "85840de84af236f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70608ca64d0deea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8807fde434660dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "743adc0589b2dce4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66cdfb45a3bda418",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "252fa15c5c8be4da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a5670987a43cb6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "914703a87fcae626",
+    "type": "split",
+    "children": [
+      {
+        "id": "604d0c4d9ebf9084",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a32c3ab29a2e5a02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "50-Inbox/2025-08-13 Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-08-13 Obsidian"
+            }
+          },
+          {
+            "id": "3f85659baa1b658d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-07-16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-07-16"
+            }
+          },
+          {
+            "id": "1c0951921b440133",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1d7357adba845270",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-07-16.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-07-16"
+            }
+          },
+          {
+            "id": "aaae6016a3e724c6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "66cdfb45a3bda418",
+  "lastOpenFiles": [
+    "README.md",
+    "Knowledge Lab - Getting Started.md",
+    "50-Inbox/2025-08-13 Obsidian.md",
+    "40-Templates/template-llm-knowledge-test.md",
+    "40-Templates/template-language-practice.md",
+    "40-Templates/template-daily-note.md",
+    "2025-08-13.md",
+    "00-Projects",
+    "40-Templates/template-meeting-note.md",
+    "Untitled.canvas",
+    "20-Resources/concepts/Three Pillars of Observability.md",
+    "20-Resources/concepts/Language Comparison - Go Python TypeScript Rust.md",
+    "20-Resources/concepts/Pattern - Scalable Web Crawler.md",
+    "20-Resources/concepts/Pattern - Real-time Notification System.md",
+    "10-Areas/12-software-engineering/active-learning/_MOC_Software_Engineering_Learning.md",
+    "10-Areas/13-islamic-studies/_MOC_Islamic_Studies.md",
+    "00-Projects/System Design Interview Preparation.md",
+    "40-Templates/template-literature-note.md",
+    "10-Areas/14-language-learning/_MOC_Language_Learning.md",
+    "2025-07-16.md",
+    "Welcome.md",
+    "50-Inbox/README.md.tmp.14372.1752636261517",
+    "40-Templates/template-meeting-note.md.tmp.14372.1752636188604",
+    "20-Resources/shubuhat-database",
+    "20-Resources/articles",
+    "20-Resources/books",
+    "20-Resources/people",
+    "20-Resources/concepts",
+    "10-Areas/15-personal-life",
+    "10-Areas/14-language-learning/japanese"
+  ]
+}
