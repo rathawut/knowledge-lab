@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50-Inbox/2025-08-13 Obsidian.md",
+                "file": "60-Journal/2025-08-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-13 Obsidian"
+              "title": "2025-08-13"
+            }
+          },
+          {
+            "id": "a742ea4ad03fdd2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60-Journal/2025-08-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-13"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,9 +151,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "a53e4ebe5a9ee999",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,13 +172,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93bc32c2d15182ab",
+  "active": "a742ea4ad03fdd2d",
   "lastOpenFiles": [
-    "README.md",
     "50-Inbox/2025-08-13 Obsidian.md",
+    "50-Inbox/2025-08-14 ประวัตินบี ﷺ 1 ชัยค์ฮะละบีย์.md",
+    "60-Journal/2025-08-13.md",
+    "TASKS.md",
+    "README.md",
     "30-Archives",
     "50-Inbox",
     "00-Projects",
